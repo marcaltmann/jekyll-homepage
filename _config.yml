@@ -16,6 +16,6 @@ email: marcaltmann@posteo.de
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-151252087-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
